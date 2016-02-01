@@ -112,4 +112,5 @@ describe('Listings CRUD tests', function() {
       })
     }
   });
+  
 });
